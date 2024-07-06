@@ -41,13 +41,30 @@
 
 
 
-<div style="display: flex;">
-  <div>
-    <img src="https://github-readme-stats.vercel.app/api/top-langs?username=letsunch&show_icons=true&locale=en&layout=compact" alt="letsunch" />
-  </div>
-  <div>
-    <img src="https://github-readme-stats.vercel.app/api?username=letsunch&show_icons=true&locale=en" alt="letsunch" />
-  </div>
-</div>
+# 📊 GitHub Stats:
+![](https://github-readme-stats.vercel.app/api?username=letsunch&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
+![](https://github-readme-streak-stats.herokuapp.com/?user=letsunch&theme=dark&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=letsunch&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+
+### ✍️ Random Dev Quote
+![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=light)
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
