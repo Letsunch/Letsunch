@@ -14,7 +14,7 @@
 
 <h3 align="left">Languages:</h3>
 
-<img src="https://skillicons.dev/icons?i=html,css,js,typescript,python,cs,java,php,tailwind" />
+<img src="https://skillicons.dev/icons?i=html,css,js,c#,python,cs" />
 <p align="left">
   <!-- First Row -->
   <a href="https://www.w3schools.com/cs/" target="_blank" rel="noreferrer">
