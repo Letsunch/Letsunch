@@ -31,7 +31,7 @@
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
-![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) <br/>
+![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
 ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
 ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white) <br/>
 ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white)
@@ -41,11 +41,13 @@
 
 
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=letsunch&show_icons=true&locale=en&layout=compact" alt="letsunch" />
-</p>
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=letsunch&show_icons=true&locale=en" alt="letsunch" />
-</p>
+<div style="display: flex;">
+  <div>
+    <img src="https://github-readme-stats.vercel.app/api/top-langs?username=letsunch&show_icons=true&locale=en&layout=compact" alt="letsunch" />
+  </div>
+  <div>
+    <img src="https://github-readme-stats.vercel.app/api?username=letsunch&show_icons=true&locale=en" alt="letsunch" />
+  </div>
+</div>
 
 
