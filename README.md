@@ -16,7 +16,7 @@
 
 <img src="https://skillicons.dev/icons?i=html,css,js,python,cs" />
 
-<h3 align="left">Tools:</h3>
+# Design Tools 
 <img src="https://skillicons.dev/icons?i=photoshop,figma" />
 
 # Databases
