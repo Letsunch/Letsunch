@@ -12,7 +12,7 @@
   </a>
 </p>
 
-<h3 align="left">Languages:</h3>
+#Languages:
 
 <img src="https://skillicons.dev/icons?i=html,css,js,python,cs" />
 
