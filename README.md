@@ -14,10 +14,18 @@
 
 <h3 align="left">Languages:</h3>
 
-<img src="https://skillicons.dev/icons?i=html,css,js,python,cs,figma" />
+<img src="https://skillicons.dev/icons?i=html,css,js,python,cs,aspnet" />
 
 <h3 align="left">Tools:</h3>
 <img src="https://skillicons.dev/icons?i=photoshop,figma" />
+
+### Databases
+
+<img src="https://skillicons.dev/icons?i=mysql,firbase" />
+
+### Development Tools and Platforms
+
+<img src="https://skillicons.dev/icons?i=git,github,vscode,visualstudio" />
 
 
 <p align="center">
