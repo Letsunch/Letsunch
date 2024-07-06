@@ -19,11 +19,11 @@
 <h3 align="left">Tools:</h3>
 <img src="https://skillicons.dev/icons?i=photoshop,figma" />
 
-### Databases
+# Databases
 
 <img src="https://skillicons.dev/icons?i=mysql,firbase" />
 
-### Development Tools and Platforms
+# Development Tools and Platforms
 
 <img src="https://skillicons.dev/icons?i=git,github,vscode,visualstudio" />
 
