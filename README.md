@@ -1,4 +1,4 @@
-!(Caleb (1).png)
+<img src="Caleb (1).png" alt="Banner" />
 <h1 align="center">Hi 👋, I'm Caleb</h1>
 <h3 align="center">A passionate front-to-back developer</h3>
 
