@@ -3,7 +3,7 @@
 <h3 align="center">A passionate front-to-back developer</h3>
 
 - 🔭 I’m currently working on **MentMate**
-- 💬 Ask me about **React.js**
+- 💬 Ask me about **React.js or Python**
 - 📫 How to reach me **calebdiba@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
