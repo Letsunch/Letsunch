@@ -2,7 +2,7 @@
 <h1 align="center">Hi 👋, I'm Caleb</h1>
 <h3 align="center">A passionate front-to-back developer</h3>
 
-- 🔭 I’m currently working on **MentMate**
+- 🔭 I’m currently working on **Chomie**
 - 💬 Ask me about **React.js or Python**
 - 📫 How to reach me **calebdiba@gmail.com**
 
