@@ -2,8 +2,8 @@
 <h1 align="center">Hi 👋, I'm Caleb</h1>
 <h3 align="center">A passionate front-to-back developer</h3>
 
-- 🔭 I’m currently working on **Chomie**
-- 💬 Ask me about **React.js or Python**
+- 🔭 I’m currently working on **Chomie** and **Something Saucy**
+- 💬 Ask me about **React, React Native or Python**
 - 📫 How to reach me **calebdiba@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
